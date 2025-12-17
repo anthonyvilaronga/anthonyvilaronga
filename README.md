@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Anthony 👋
+- 📍 I'm from Brazil 🇧🇷.
+- 🔭 Aspiring AI Engineer | Data Science & Machine Learning.
+- 🌱 I’m currently studying Python, SQL, data analysis and machine learning.
+<div>
+  <a href="https://www.linkedin.com/in/anthony-vilaronga-539290290/" target="_blank"><img scr="<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c750c73d-f41a-462e-96ab-1e8745dbcb98" />
+  <a href="mailto:anthonyvilaronga1@gmail.com"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bb9e5061-65ca-4c87-ab23-8f56926ca083" />
 
-<!--
-**anthonyvilaronga/anthonyvilaronga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/anthonyvilaronga">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonyvilaronga&show_icons=true&theme=prussian"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyvilaronga&layout=compact&langs_count=16&theme=prussian"/>
+  </a>
+</div>
+<div>
+  <img align="center" alt="Anthony-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Anthony-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
