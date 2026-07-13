@@ -1,6 +1,6 @@
 ## Hi, I'm Anthony 👋
 - 📍 I'm from Brazil 🇧🇷.
-- 🔭 Aspiring AI Engineer | Data Science & Machine Learning.
+- 🔭 Aspiring AI Engineer | Cybersecurity & Machine Learning.
 - 🌱 I’m currently studying Python, SQL, data analysis and machine learning.
 <div>
   <a href="https://www.linkedin.com/in/anthony-vilaronga-539290290/" target="_blank"><img scr="<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c750c73d-f41a-462e-96ab-1e8745dbcb98" />
@@ -16,6 +16,5 @@
 </div>
 <div>
   <img align="center" alt="Anthony-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Anthony-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 </div>
 
