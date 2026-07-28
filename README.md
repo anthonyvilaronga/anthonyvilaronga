@@ -1,7 +1,7 @@
 ## Hi, I'm Anthony 👋
 - 📍 I'm from Brazil 🇧🇷.
-- 🔭 Aspiring AI Engineer | Cybersecurity & Machine Learning.
-- 🌱 I’m currently studying Python, SQL, data analysis and machine learning.
+- 🔭 Software Developer | Cybersecurity.
+- 🌱 I’m currently studying Software Development and developing the Nexus System.
 <div>
   <a href="https://www.linkedin.com/in/anthony-vilaronga-539290290/" target="_blank"><img scr="<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c750c73d-f41a-462e-96ab-1e8745dbcb98" />
   <a href="mailto:anthonyvilaronga1@gmail.com"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bb9e5061-65ca-4c87-ab23-8f56926ca083" />
